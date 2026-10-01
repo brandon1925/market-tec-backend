@@ -1,0 +1,13 @@
+# Entornos virtuales
+venv/
+env/
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
+
+# Imágenes locales (para no llenar el repositorio con pruebas)
+imagenes/
+
+# Archivos de entorno (contraseñas en el futuro)
+.env
